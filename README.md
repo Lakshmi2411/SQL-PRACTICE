@@ -33,6 +33,7 @@ Modify the SELECT queries to add new filters, joins or aggregations and execute 
 - UPDATE, DELETE statements
 - CAST, CONVERT, ROUND date functions
 - Joins-https://sqliteonline.com/#share=956be8fe7373d887bb6805552efd6e6c67a9c0a16595f7e962c668b2a43d272b
+- Group by- https://sqliteonline.com/#share=ef6df60d6705cac16c4ef1ffe877bfbc7b716a6f8f6546616c920790b9cfeaff
 
 ## Running the Code
 The SQL can be run using:
